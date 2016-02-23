@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lerationaldespr01marc_0754.png"; bbox 0 0 902 1292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 495 99 848 1242">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 495 92 848 1242">
+     <span class='ocr_line' id='line_1_1' title="bbox 698 355 848 1242"><span class='ocrx_word' id='word_1_1' title='bbox 845 355 847 357; x_wconf 73' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 727 492 844 635; x_wconf 54' lang='lat' dir='ltr'>H„</span> <span class='ocrx_word' id='word_1_3' title='bbox 698 690 847 839; x_wconf 88' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 699 889 848 1040; x_wconf 99' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 698 1090 848 1242; x_wconf 98' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 495 99 646 1038; baseline -85.364 5634"><span class='ocrx_word' id='word_1_6' title='bbox 638 99 642 136; x_wconf 91' lang='grc'>,-</span> <span class='ocrx_word' id='word_1_7' title='bbox 547 190 642 235; x_wconf 21' lang='grc' dir='ltr'>.-Α</span> <span class='ocrx_word' id='word_1_8' title='bbox 496 293 641 438; x_wconf 50' lang='lat' dir='ltr'>d</span> <span class='ocrx_word' id='word_1_9' title='bbox 495 490 646 641; x_wconf 82' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 561 896 646 1038; x_wconf 29' lang='grc' dir='ltr'>ἿᾸ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 496 153 560 1039; baseline -947 4735"><span class='ocrx_word' id='word_1_11' title='bbox 499 153 538 233; x_wconf 43' lang='grc' dir='ltr'>ρ</span> <span class='ocrx_word' id='word_1_12' title='bbox 496 292 549 368; x_wconf 74' lang='grc' dir='ltr'>Γ.</span> <span class='ocrx_word' id='word_1_13' title='bbox 519 700 521 703; x_wconf 20' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 501 896 560 1039; x_wconf 44' lang='grc' dir='ltr'>,Γέιν</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 843 0 1004">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 843 0 1004">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 843 0 1004"><span class='ocrx_word' id='word_1_15' title='bbox 0 843 0 1004; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
